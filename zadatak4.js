@@ -3,9 +3,12 @@ var b = '5';
 
 function f() {
     if ( a === b) {
-        return "Promenljive su jednake";
-    } else {
-        return "Promenljive nisu jednake";
+        return "Promenljive su istog tipa i iste vrednosti";
+    } else if (a == b){
+        return "Promenljive su istog tipa";
+    }
+    else {
+        return "Promenljive nisu istog tipa i vrednosti"
     }
 }
 
