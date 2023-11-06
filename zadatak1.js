@@ -1,4 +1,4 @@
-function f1() {
+function f1(a,b,c) {
     var a = "Ovo je neki tekst";
     var b = 5;
     var c = false;

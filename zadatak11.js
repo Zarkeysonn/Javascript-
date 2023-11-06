@@ -1,5 +1,4 @@
-var a;
-var b;
+
 
 function doTheMath(a,b){
     if(a < 0 && b < 0){
