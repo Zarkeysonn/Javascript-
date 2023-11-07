@@ -11,3 +11,5 @@ function numbers1To5(){
 }
 
 console.log(numbers1To5());
+
+console.log(2 ** 5)
