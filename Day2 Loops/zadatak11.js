@@ -1,6 +1,6 @@
 function exponentiationNum(a,b) {
     let counter = 0;
-    for(let i=1; i <= b; i++) {
+    for(let i = 1; i <= b; i++) {
         counter++;
     }
     return a ** counter;

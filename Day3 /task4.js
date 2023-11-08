@@ -3,9 +3,11 @@ function getBiggerArray(){
     let b = [1,2,3];
     if(a.length > b.length){
         return a;
+        
     }
     else
         return b;
+
 }
 
 console.log(getBiggerArray());

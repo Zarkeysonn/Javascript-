@@ -5,6 +5,7 @@ function showElementsOfArray(){
         outputArray.push(c);
     }
     return outputArray;
+    
 }
 
 console.log(showElementsOfArray());

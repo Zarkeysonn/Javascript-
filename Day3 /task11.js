@@ -3,12 +3,13 @@ function medianaValue(){
     let counter = 0;
     let sum = 0;
     let mediana;
-    for(let i=0; i < array.length; i++){
+    for(let i = 0; i < array.length; i++){
         sum += array[i];
         counter++;
     }
     mediana = sum / counter;
     return mediana;
+
 }
 
 console.log(medianaValue());

@@ -7,6 +7,7 @@ function divideBy7and13(){
         i++;
     } while ( array.length < 27)
     return array;
+
 }
 
 console.log(divideBy7and13());

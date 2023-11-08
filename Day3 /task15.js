@@ -4,6 +4,7 @@ function getArrayInterval(a,b) {
             newArray.push(i);
         }
     return newArray;
+
 }
 
 console.log(getArrayInterval(5,10));

@@ -5,6 +5,7 @@ function createArray(){
         output.push(M);
     }
     return output;
+    
 }
 
 console.log(createArray());

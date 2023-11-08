@@ -14,6 +14,7 @@ function primeNumbers(){
         count = 0;
     }
     return primeNumbers;
+
 }
 
 console.log(primeNumbers());

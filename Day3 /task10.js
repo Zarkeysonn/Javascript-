@@ -5,6 +5,7 @@ function sumArrayElements(){
         sum += array[i];
     }
     return sum;
+
 }
 
 console.log(sumArrayElements());

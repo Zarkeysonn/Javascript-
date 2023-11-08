@@ -5,6 +5,7 @@ function throwCube() {
         counter++;    
     } while(number !== 6);
     return counter;
+
 }
 
 console.log(throwCube());

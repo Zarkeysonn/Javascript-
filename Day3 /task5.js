@@ -5,6 +5,7 @@ function showArrayElements(){
         output.push(array[index]);
     }
     return output;
+
 }
 
 console.log(showArrayElements());
