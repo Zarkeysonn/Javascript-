@@ -8,6 +8,7 @@ function showOddNumbers(){
         i++;
     }
     return oddNums;
+    
 }
 
 console.log(showOddNumbers());

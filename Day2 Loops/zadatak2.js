@@ -6,6 +6,7 @@ function printNumbers20To30() {
         i++;
     }
     return numbers;
+
 }
 
 console.log(printNumbers20To30());

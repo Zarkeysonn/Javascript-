@@ -5,6 +5,7 @@ function intervalNumbers(start,end){
         start++;
     }
     return nums;
+
 }
 
 console.log(intervalNumbers(5,10));

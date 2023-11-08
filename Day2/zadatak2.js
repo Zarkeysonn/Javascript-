@@ -5,7 +5,6 @@ function turnOnBoiler(time1) {
     } else 
         return "Turn off boiler";
 
-
 }
 
 console.log(turnOnBoiler(new Date("08/06/2015 00:03:20")));

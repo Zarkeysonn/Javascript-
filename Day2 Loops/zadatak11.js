@@ -4,6 +4,7 @@ function exponentiationNum(a,b) {
         counter++;
     }
     return a ** counter;
+    
 }
 
 console.log(exponentiationNum(2,5));
