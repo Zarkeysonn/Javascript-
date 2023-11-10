@@ -9,9 +9,10 @@ function maxNum(a,b,c) {
     else if (max <= c && c >= a && c >= b) {
         max = c;
     }
-    else return "Please provide valid values for ny=umbers"
+    else return "Please provide valid values for ny=umbers";
 
     return max;
+
 }
 
 function  minNum(a,b,c) {
@@ -29,6 +30,7 @@ function  minNum(a,b,c) {
         return "Please provide valid value for numbers";
 
     return min;
+
 }
 
 console.log(maxNum(7,6,15));
